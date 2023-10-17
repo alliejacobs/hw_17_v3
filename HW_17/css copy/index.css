@@ -1,0 +1,44 @@
+nav {
+  height: 50px;
+  background-color: #03003D;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+.inline-block {
+  padding: 15px;
+  display: inline-block;
+  background-color: #03003D;
+  color: #F5F0F6;
+ 
+}
+.left {
+  float: left;
+  height: 500px;
+  color: #03003D;
+  width: 30%;
+  text-align: center;
+  background-color: #F5F0F6;
+  font-family: source serif 4;
+
+}
+
+.right {
+  float: left;
+  background-color: #F5F0F6;
+  height: 500px;
+  width: 70%;
+  text-align: center;
+
+}
+
+.card {
+  display: inline-block;
+  background-color: #9E7682;
+  border-radius: 5px;
+  height: 200px;
+  width: 150px;
+  margin: 35px;
+  margin-top: 50px;
+}
+
+ 
